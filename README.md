@@ -12,9 +12,9 @@ Sorting
 
 ## 💻 Exercício 3
 
-Criar um Algoritmo de QuickSort
-Criar uma aplicação de teste para o Algoritmo
-Criar uma Biblioteca com o Algoritmo
+- Criar um Algoritmo de QuickSort
+- Criar uma aplicação de teste para o Algoritmo
+- Criar uma Biblioteca com o Algoritmo
 
 ## Como Executar
 
